@@ -1,0 +1,13 @@
+td {
+  height: 100px;
+  width:100px;
+  border: black solid 5px;
+  font-size: 3.5em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.tictactoe {
+  margin-left: auto;
+  margin-right: auto;
+}
